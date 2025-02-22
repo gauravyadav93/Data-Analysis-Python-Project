@@ -5,7 +5,7 @@ and Matplotlib for data visualization. The goal is to identify patterns, trends,
 
 **Table of Contents**
 1. Introduction
-2. Data Collection
+2. About the Dataset/Data Collection
 3. Data Preprocessing
 4. Data Analysis
 5. Data Visualization
@@ -20,6 +20,8 @@ This project aims to provide a comprehensive analysis of crime data in Los Angel
 By examining historical data, we can uncover trends, patterns, and potential insights to aid law enforcement agencies 
 and policymakers in making informed decisions to improve public safety.
 
+**About The Dataset:-**
+This dataset represents a comprehensive record of crime incidents within the City of Los Angeles, starting from 2020. The data is sourced from original crime reports, which were originally typed on paper, introducing the possibility of some inaccuracies. Certain location fields may contain missing data denoted as (0°, 0°). To prioritize privacy, address fields are limited to the nearest hundred blocks. While the data is generally reliable, any questions or concerns can be addressed through comments. Explore this dataset to uncover trends, and patterns, and gain a deeper understanding of crime in Los Angeles.
 **Data Collection**
 - The crime data is sourced from the Los Angeles Police Department (LAPD) and public datasets.
 - The dataset includes information on various types of crimes, locations, dates, and other relevant details.
